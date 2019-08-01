@@ -1,5 +1,5 @@
 {
-  "name": "redbird",
+  "name": "@atomic-reactor/redbird",
   "version": "0.9.1",
   "description": "A reverse proxy with support for dynamic tables",
   "main": "index.js",
