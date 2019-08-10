@@ -1,6 +1,6 @@
 {
   "name": "@atomic-reactor/redbird",
-  "version": "0.9.1",
+  "version": "0.9.1-buffer-certs2",
   "description": "Fork of OptimalBits/redbird. A reverse proxy with support for dynamic tables",
   "main": "index.js",
   "scripts": {
