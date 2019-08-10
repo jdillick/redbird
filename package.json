@@ -1,14 +1,14 @@
 {
   "name": "@atomic-reactor/redbird",
-  "version": "0.9.1-buffer-certs",
-  "description": "A reverse proxy with support for dynamic tables",
+  "version": "0.9.1-buffer-certs2",
+  "description": "Fork of OptimalBits/redbird. A reverse proxy with support for dynamic tables",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/* --bail --exit --reporter spec"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/OptimalBits/redbird.git"
+    "url": "git@github.com:jdillick/redbird.git"
   },
   "keywords": [
     "proxy",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/OptimalBits/redbird/issues"
   },
-  "homepage": "https://github.com/OptimalBits/redbird",
+  "homepage": "https://github.com/jdillick/redbird",
   "dependencies": {
     "bluebird": "^3.5.3",
     "bunyan": "^1.8.1",
